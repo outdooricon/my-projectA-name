@@ -1,0 +1,8 @@
+{
+  "name": "remote-node-jobs",
+  "private": true,
+  "dependencies": {
+    "string": "~2.1.0"
+  },
+  "devDependencies": {}
+}

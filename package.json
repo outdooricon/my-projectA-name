@@ -1,0 +1,13 @@
+{
+  "name": "my-projectA-name",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "systemjs-builder": "^0.2.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "private": true
+}
