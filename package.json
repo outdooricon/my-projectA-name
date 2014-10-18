@@ -4,7 +4,7 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.8.5",
-    "systemjs-builder": "^0.2.2"
+    "systemjs-builder": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0"
